@@ -1,1 +1,2 @@
 c:\users\estudiante\documents\visual studio 2015\Projects\MultiTienda\MultiTienda\bin\Debug\MultiTienda.exe.config
+C:\Users\Estudiante\Desktop\Vineco Project\Multi\MultiTienda\MultiTienda\bin\Debug\MultiTienda.exe.config
